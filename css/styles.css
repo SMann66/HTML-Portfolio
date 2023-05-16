@@ -1,0 +1,54 @@
+
+.gradient-background {
+    background: linear-gradient(300deg, #569DAA, #87CBB9, #B9EDDD);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+.me-jpg {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 180px;
+    width: 160px;
+    border-radius: 50%;
+    float: left;
+    padding: 10px;
+}
+.my-name{
+    font-family: 'Prata', serif;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: #577D86;
+}
+.my-intro{
+    font-family: 'Prata', serif;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: #577D86
+}
+.background1{
+    background-size: cover; height:240px; width: 100%; padding-top:80px;
+    padding-top:80px;
+}
+.col-lg-7 p-3 p-lg-5 pt-lg-3 {
+    display: inline-block;
+    width: 40%;
+  }
+
+  p {
+    font-size: 2em;
+  }
+  .background2{
+    background-size: cover; height:100%; padding-bottom:80px;
+  }
+  .text-body-secondary{
+    font-family: 'Prata', serif;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: #577D86; 
+  }
